@@ -11,17 +11,27 @@ const About = () => {
             </div>
             <div className="a-right">
                 <h1 className="a-title">About Me</h1>
-                <p className="a-sub">psksmamnmdnckksmxnnskmks
+                <p className="a-sub">
+                Education
+                <br/>
+                - Bethany High School, Bangalore
+                <br/>
+                - Nehru Smaraka Vidyalaya, Bangalore
+                <br/>
+                - PES University, Bangalore
+                <br/>
                 </p>
-                <p className="a-desc">ckjkjkjkkmwknnnmwckqkmkcmwmcmmx
-                cnwnkwcxwkjclkwcwcmowovnnw3vloponpwo
+                <p className="a-desc">
                 </p>
                 <div className="a-award">
                     <img src={awards} alt="" className="a-award-img"></img>
                     <div className="a-award-texts">
-                        <h4>winner</h4>
+                        <h4>Achievements</h4>
+                        <br/>
                         <p className="a-award-desc">
-                            kksnnmmsdkdkkdlsppsoiejennfmmxwmkxc iwmxiw,x,
+                        - Achieved 98.6% in CISCE Board Examinations, 2019 and stood first in my School
+                        <br/>
+                        - KCET State Rank:727
                     </p>
                     </div>
                 </div>
