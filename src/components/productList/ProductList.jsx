@@ -5,7 +5,7 @@ const ProductList = () =>{
     return(
         <div className="pl">
             <div className="pl-texts">
-                <h1 className="pl-title">My Project-Bulletin</h1>
+                <h1 className="pl-title">My Project-Bulletin . . .</h1>
                 <p className="pl-desc">Click the below space for more!</p>
             </div>
             <div className="pl-list">

@@ -9,6 +9,12 @@
 .pl-texts{
     width:65%;
 }
+.c-bg{
+    width:20px;
+    height:100%;
+    background-color: #1589FF;
+    position: absolute;
+}
 
 .pl-title{
     font-size:50px;

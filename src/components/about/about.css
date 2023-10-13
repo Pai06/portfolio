@@ -52,6 +52,13 @@
 }
 .a-award-texts{
     width:70%;
+    padding-right: 50px;
+}
+.c-bg{
+    width:20px;
+    height:100%;
+    background-color: #1589FF;
+    position: absolute;
 }
 .a-award-title{
     font-weight:bold;

@@ -18,7 +18,7 @@ const Intro = () => {
                     </div>
                     <div className="intro-description">
                         I am a Computer Science student at PES University, Bangalore.
-                        I have a keen interest in Web Development,IoT and a variety of other domains.
+                        I am a Web Development and AI/ML enthusiast.
                         My goal is to put to use all my learnings into developing something that is great
                         and useful to mankind!
                     </div>
